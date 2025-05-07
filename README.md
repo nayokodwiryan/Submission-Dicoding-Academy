@@ -18,4 +18,7 @@ Proyek ini adalah hasil submission tugas akhir pembuatan website yang menerapkan
 - HTML5
 - CSS3 (Flexbox)
 
+## Link Sertifikat
+https://www.dicoding.com/certificates/QLZ935OMMZ5D
+
 
