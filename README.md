@@ -1,4 +1,4 @@
-# Developer Academy - Submission Tugas Akhir WebsiteHeader: Judul, deskripsi singkat platform, dan navigasi menu.
+# Developer Academy - Submission Tugas Akhir
 
 Proyek ini adalah hasil submission tugas akhir pembuatan website yang menerapkan Semantic HTML5 dan CSS Flexbox. Website ini menampilkan struktur dasar sebuah platform pembelajaran teknologi bernama Developer Academy, yang terdiri dari:
 
